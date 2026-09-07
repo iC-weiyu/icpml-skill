@@ -1,0 +1,6 @@
+interface:
+  display_name: "iC PyMOL"
+  short_description: "为 iC 生成语义准确、对象栏干净的蛋白结构 PyMOL 视图"
+  default_prompt: "使用 $icpml-skill 检查实际结构并生成语义准确、对象栏干净的版本化 PyMOL PML。"
+policy:
+  allow_implicit_invocation: true
